@@ -1,0 +1,4 @@
+main.c:340:13:LoraRxData	8	static
+main.c:259:5:temperatureFunction	32	static
+main.c:102:5:main	56	static,ignoring_inline_asm
+main.c:158:13:LoraTxData	56	static

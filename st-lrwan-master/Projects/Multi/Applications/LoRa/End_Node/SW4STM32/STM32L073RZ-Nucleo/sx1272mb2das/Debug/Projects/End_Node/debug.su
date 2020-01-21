@@ -1,0 +1,2 @@
+debug.c:56:6:DBG_Init	40	static
+debug.c:111:6:Error_Handler	0	static

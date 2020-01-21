@@ -1,0 +1,15 @@
+RegionCommon.c:55:10:RegionCommonGetJoinDc	0	static
+RegionCommon.c:74:6:RegionCommonChanVerifyDr	32	static
+RegionCommon.c:99:9:RegionCommonValueInRange	0	static
+RegionCommon.c:108:6:RegionCommonChanDisable	12	static
+RegionCommon.c:123:9:RegionCommonCountChannels	32	static
+RegionCommon.c:140:6:RegionCommonChanMaskCopy	8	static
+RegionCommon.c:151:6:RegionCommonSetBandTxDone	0	static
+RegionCommon.c:164:13:RegionCommonUpdateBandTimeOff	32	static
+RegionCommon.c:209:9:RegionCommonParseLinkAdrReq	8	static
+RegionCommon.c:233:9:RegionCommonLinkAdrReqVerifyParams	48	static
+RegionCommon.c:296:8:RegionCommonComputeSymbolTimeLoRa	16	static
+RegionCommon.c:301:8:RegionCommonComputeSymbolTimeFsk	8	static
+RegionCommon.c:306:6:RegionCommonComputeRxWindowParameters	40	static
+RegionCommon.c:312:8:RegionCommonComputeTxPower	16	static
+RegionCommon.c:321:6:RegionCommonCalcBackOff	24	static

@@ -1,0 +1,10 @@
+stm32l0xx_hal_msp.c:73:19:HAL_InitTick	0	static
+stm32l0xx_hal_msp.c:84:6:HAL_Delay	16	static
+stm32l0xx_hal_msp.c:95:6:HAL_MspInit	8	static
+stm32l0xx_hal_msp.c:133:6:HAL_I2C_MspInit	32	static
+stm32l0xx_hal_msp.c:163:6:HAL_I2C_MspDeInit	8	static
+stm32l0xx_hal_msp.c:242:6:HAL_RTC_MspInit	104	static
+stm32l0xx_hal_msp.c:281:6:HAL_RTC_MspDeInit	0	static
+stm32l0xx_hal_msp.c:293:6:HAL_RTC_AlarmAEventCallback	8	static
+stm32l0xx_hal_msp.c:303:6:HAL_GPIO_EXTI_Callback	8	static
+stm32l0xx_hal_msp.c:313:11:MSP_GetIRQn	4	static
